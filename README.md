@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Im Flickz But You can call me flcz
+- 👨‍💻 I like making projects (mostly python and sometimes c++)
+- from 🇷🇴
+- 🥱 Currently Learning Reverse Engineering 
 
 <!--
 **flczz/flczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
