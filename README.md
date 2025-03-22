@@ -1,6 +1,7 @@
-Hi Im Flickz But You can call me flcz 👨‍💻 I like making projects (mostly python and sometimes c++)
-from 🇷🇴
-🥱 Currently Learning Reverse Engineering 
+- Hi Im Flickz But You can call me flcz - 👨‍💻 I like making projects (mostly python and sometimes c++)
+- from 🇷🇴
+- 🥱 Currently Learning Reverse Engineering
+- idk
 
 
 <!--
