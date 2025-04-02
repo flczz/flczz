@@ -2,7 +2,7 @@
 - 👨‍💻 I like making projects (mostly python and sometimes c++)
 - from 🇷🇴
 - 🥱 Currently Learning Reverse Engineering
-- Interested in leanring javascript next (maybe)
+- Interested in learning javascript
 
 
 <!--
