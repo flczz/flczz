@@ -1,9 +1,7 @@
 ## Hi Im Flickz But You can call me flcz 
-- 👨‍💻 I like making projects (mostly python and sometimes c++)
-- from 🇷🇴
-- 🥱 Currently Learning Reverse Engineering
-- Interested in learning javascript
-
+- i like to make projects when i want to
+- ik python a bit of c++ and a bit of javascript
+- Romanian
 
 <!--
 **flczz/flczz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
